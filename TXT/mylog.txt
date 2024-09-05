@@ -8,10 +8,10 @@ ZCZC W00 10 L04 Github Pages related
 ZCZC W00 100 L02 28/8 Classroom Meetings
 ZCZC W00 90 L10 Assignment #00: Reading Silberschatz and Watching Linux Course Video
 ZCZC W00 30 L10 Assignment #00: Watching 40 Basic Linux Commands and REGEX Video
-
 ZCZC W01 100 L02 2/9 Classroom Meetings
-ZCZC W01 15 L41 TXT/mylog.txt Related
 ZCZC W01 150 L11 Assignment #01: Setup Virtual Debian Guest and SSH to Github.com
 ZCZC W01 45 L11 Assignment #01: Reading more Silberschatz Book
 ZCZC W01 45 L11 Assignment #01: Trying Demos
 ZCZC W01 30 L11 Assignment #01: Setting up index.md, LINKS/, and Finishing
+ZCZC W01 15 L11 Assignment #01: Updating LINKS/ with Interesting Links
+ZCZC W01 15 L41 TXT/mylog.txt Related
