@@ -15,3 +15,16 @@ ZCZC W01 45 L11 Assignment #01: Trying Demos
 ZCZC W01 30 L11 Assignment #01: Setting up index.md, LINKS/, and Finishing
 ZCZC W01 15 L11 Assignment #01: Updating LINKS/ with Interesting Links
 ZCZC W01 15 L41 TXT/mylog.txt Related
+ZCZC W02 100 L02 11/9 Classroom Meetings
+ZCZC W02 15 L01 SCeLe/Discord Related
+ZCZC W02 15 L26 GnuPG, key-gen, encrypt/decrypt Related
+ZCZC W02 90 L12 Assignment #02: GnuPG, Backing Up Important Keys, Assignment Script, and Finishing
+ZCZC W02 90 L05 Studying for Quiz
+ZCZC W02 45 L09 Assignment in General: Doing POP QUIZ 2-1 and 2-3
+ZCZC W02 15 L03 GitHub Related
+ZCZC W02 30 L07 Trying Demo
+ZCZC W02 60 L06 References/Books/Documents/Browsing/GSGS Related
+ZCZC W02 90 L32 Watching OS Related Topics for links.md
+ZCZC W02 15 L40 TXT/ Related: Updating links.md and mylog.txt
+ZCZC W02 80 L21 Trying to Customize My WSL
+ZCZC W02 30 L40 TXT/ Related: Checking My Tarball Once Again Using MD5SUM
