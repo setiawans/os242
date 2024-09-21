@@ -31,5 +31,12 @@ A simple tutorial video about how PGP/GPG keys work.
 * [Linux got wrecked by backdoor attack](https://www.youtube.com/watch?v=bS9em7Bg0iU) ---
 A short video introducing XZ Utils backdoor attack that affects Linux distros such as Debian, OpenSUSE, Kali, and Fedora.
 
+## Week 03
+* [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) ---
+A short video introducing Linux File System. Recommended for new Linux user!
+
+* [How to view Disks, Partitions and Mount Points in Linux](https://www.youtube.com/watch?v=9i_oZkgd4c8) ---
+Short but great tutorial on how we can view our disks, partitions, and mount points in Linux.
+
 <br>
 <hr>

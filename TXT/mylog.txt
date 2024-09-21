@@ -28,3 +28,12 @@ ZCZC W02 90 L32 Watching OS Related Topics for links.md
 ZCZC W02 15 L40 TXT/ Related: Updating links.md and mylog.txt
 ZCZC W02 80 L21 Trying to Customize My WSL
 ZCZC W02 30 L40 TXT/ Related: Checking My Tarball Once Again Using MD5SUM
+ZCZC W03 100 L02 18/9 Classroom Meetings
+ZCZC W03 15 L01 SCeLe/Discord Related
+ZCZC W03 120 L13 Assignment #03: Creating An Extra Virtual Disk
+ZCZC W03 50 L09 Assignment in General: Doing POP QUIZ 3-1 until 3-4
+ZCZC W03 15 L03 GitHub Related
+ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS Related
+ZCZC W03 45 L32 Watching OS Related Topics for links.md
+ZCZC W03 15 L40 TXT/ Related: Updating links.md and mylog.txt
+ZCZC W03 30 L07 Trying Demo
