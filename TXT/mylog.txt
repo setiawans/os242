@@ -37,3 +37,4 @@ ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS Related
 ZCZC W03 45 L32 Watching OS Related Topics for links.md
 ZCZC W03 15 L40 TXT/ Related: Updating links.md and mylog.txt
 ZCZC W03 30 L07 Trying Demo
+ZCZC W03 30 L40 TXT/ Related: Checking My Tarball Once Again Using SHA256SUM
