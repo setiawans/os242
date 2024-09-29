@@ -27,7 +27,7 @@ ZCZC W02 60 L06 References/Books/Documents/Browsing/GSGS Related
 ZCZC W02 90 L32 Watching OS Related Topics for links.md
 ZCZC W02 15 L40 TXT/ Related: Updating links.md and mylog.txt
 ZCZC W02 80 L21 Trying to Customize My WSL
-ZCZC W02 30 L40 TXT/ Related: Checking My Tarball Once Again Using MD5SUM
+ZCZC W02 30 L40 TXT/ Related: Checking My Tarball Once Again Using SHA256SUM
 ZCZC W03 100 L02 18/9 Classroom Meetings
 ZCZC W03 15 L01 SCeLe/Discord Related
 ZCZC W03 120 L13 Assignment #03: Creating An Extra Virtual Disk
@@ -38,3 +38,10 @@ ZCZC W03 45 L32 Watching OS Related Topics for links.md
 ZCZC W03 15 L40 TXT/ Related: Updating links.md and mylog.txt
 ZCZC W03 30 L07 Trying Demo
 ZCZC W03 30 L40 TXT/ Related: Checking My Tarball Once Again Using SHA256SUM
+ZCZC W04 60 L14 Assignment #04: Running Assignment Script
+ZCZC W04 45 L09 Assignment in General: Doing POP QUIZ 4-1 until 4-4
+ZCZC W04 15 l01 SCeLe/Discord Related
+ZCZC W04 100 L32 Watching OS Related Topics for links.md
+ZCZC W04 15 L40 TXT/ Related: Updating links.md and mylog.txt
+ZCZC W04 30 L07 Trying Demo
+ZCZC W04 30 L40 TXT/ Related: Checking My Tarball Once Again Using SHA256SUM

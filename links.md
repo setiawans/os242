@@ -38,5 +38,12 @@ A short video introducing Linux File System. Recommended for new Linux user!
 * [How to view Disks, Partitions and Mount Points in Linux](https://www.youtube.com/watch?v=9i_oZkgd4c8) ---
 Short but great tutorial on how we can view our disks, partitions, and mount points in Linux.
 
+## Week 04
+* [How Computer Memory Works](https://www.youtube.com/watch?v=XETZoRYdtkw) ---
+Nice video for beginner to learn about how computer memory works!
+
+* [Garbage Collection (Mark & Sweep)](https://www.youtube.com/watch?v=c32zXYAK7CI) ---
+Usefull video to learn about memory management through garbage collection mechanism!
+
 <br>
 <hr>
