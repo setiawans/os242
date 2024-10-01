@@ -41,7 +41,7 @@ ZCZC W03 30 L40 TXT/ Related: Checking My Tarball Once Again Using SHA256SUM
 ZCZC W04 100 L02 23/9 Classroom Meetings
 ZCZC W04 60 L14 Assignment #04: Running Assignment Script
 ZCZC W04 45 L09 Assignment in General: Doing POP QUIZ 4-1 until 4-4
-ZCZC W04 15 l01 SCeLe/Discord Related
+ZCZC W04 15 L01 SCeLe/Discord Related
 ZCZC W04 100 L32 Watching OS Related Topics for links.md
 ZCZC W04 15 L40 TXT/ Related: Updating links.md and mylog.txt
 ZCZC W04 30 L07 Trying Demo
