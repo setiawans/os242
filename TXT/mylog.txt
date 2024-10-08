@@ -46,3 +46,9 @@ ZCZC W04 100 L32 Watching OS Related Topics for links.md
 ZCZC W04 15 L40 TXT/ Related: Updating links.md and mylog.txt
 ZCZC W04 30 L07 Trying Demo
 ZCZC W04 30 L40 TXT/ Related: Checking My Tarball Once Again Using SHA256SUM
+ZCZC W05 180 L15 Assignment #05: Running and modifying script, modifying base memory size, etc.
+ZCZC W05 15 L01 SCeLe/Discord Related
+ZCZC W05 30 L07 Trying Demo
+ZCZC W05 90 L32 Watching OS Related Topics for links.md
+ZCZC W05 15 L30 TXT/ Related: Updating links.md and mylog.txt
+ZCZC W05 15 L03 GitHub Related

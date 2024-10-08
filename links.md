@@ -45,5 +45,12 @@ Nice video for beginner to learn about how computer memory works!
 * [Garbage Collection (Mark & Sweep)](https://www.youtube.com/watch?v=c32zXYAK7CI) ---
 Usefull video to learn about memory management through garbage collection mechanism!
 
+## Week 05
+* [What is virtual memory?](https://www.youtube.com/watch?v=2quKyPnUShQ) --
+A nice video introducting virtual memory in operating system!
+
+* [Paging in Operating Systems with Example & Working - Memory Management](https://www.youtube.com/watch?v=pJ6qrCB8pDw) --
+Usefull video to learn how paging works in operating system!
+
 <br>
 <hr>
