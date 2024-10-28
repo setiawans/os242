@@ -52,5 +52,12 @@ A nice video introducting virtual memory in operating system!
 * [Paging in Operating Systems with Example & Working - Memory Management](https://www.youtube.com/watch?v=pJ6qrCB8pDw) --
 Usefull video to learn how paging works in operating system!
 
+## Week 06
+* [Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained](https://www.youtube.com/watch?v=olYdb0DdGtM) ---
+Usefull video to learn about concurrency and threading in operating system!
+
+* [Is it concurrent or parallel?](https://www.youtube.com/watch?v=r2__Rw8vu1M) ---
+A nice video showing us the difference between concurrent and parallel in operating system.
+
 <br>
 <hr>

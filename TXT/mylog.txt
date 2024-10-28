@@ -54,3 +54,9 @@ ZCZC W05 15 L30 TXT/ Related: Updating links.md and mylog.txt
 ZCZC W05 15 L03 GitHub Related
 ZCZC W05 120 L09 Assignment in General: Doing Pop Quiz 5-1 until 5-4
 ZCZC W05 30 L40 TXT/ Related: Checking My Tarball Once Again using SHA256SUM
+ZCZC W06 60 L16 Assignment #06: Running some script
+ZCZC W06 15 L01 SCeLe/Discord Related
+ZCZC W06 30 L07 Trying Demo
+ZCZC W06 120 L32 Watching OS Related Topics, especially for links.md
+ZCZC W06 15 L30 TXT/ Related: Updating links.md and mylog.txt
+ZCZC W06 15 L03 GitHub Related
