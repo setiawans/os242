@@ -59,5 +59,12 @@ Usefull video to learn about concurrency and threading in operating system!
 * [Is it concurrent or parallel?](https://www.youtube.com/watch?v=r2__Rw8vu1M) ---
 A nice video showing us the difference between concurrent and parallel in operating system.
 
+## Week 07
+* [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) ---
+A usefull video showing us how process synchronization works in operating system!
+
+* [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY) ---
+Short but nice and usefull video showing us how deadlock works in operating system.
+
 <br>
 <hr>

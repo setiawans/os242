@@ -61,3 +61,10 @@ ZCZC W06 120 L32 Watching OS Related Topics, especially for links.md
 ZCZC W06 15 L30 TXT/ Related: Updating links.md and mylog.txt
 ZCZC W06 15 L03 GitHub Related
 ZCZC W06 120 L09 Assignment in General: Doing POP QUIZ 6-1 until 6-6
+ZCZC W07 120 L17 Assignment #07: Running some script
+ZCZC W07 15 L01 SCeLe/Discord Related
+ZCZC W07 30 L07 Trying Demo
+ZCZC W07 15 L30 TXT/ Related: Updating links.md and mylog.txt
+ZCZC W07 15 L03 GitHub Related
+ZCZC W07 120 L06 GSGS Related
+ZCZC W07 180 L09 Assignment in General: Doing Pop Quiz W07
