@@ -68,3 +68,7 @@ ZCZC W07 15 L30 TXT/ Related: Updating links.md and mylog.txt
 ZCZC W07 15 L03 GitHub Related
 ZCZC W07 120 L06 GSGS Related
 ZCZC W07 180 L09 Assignment in General: Doing Pop Quiz W07
+ZCZC W08 200 L18 Assignment #08: Running some script
+ZCZC W08 30 L30 TXT/ Related: Updating links.md and mylog.txt
+ZCZC W08 120 L09 Assignment in General: Doing Pop Quiz W08
+ZCZC W08 120 L06 GSGS Related

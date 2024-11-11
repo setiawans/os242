@@ -66,5 +66,13 @@ A usefull video showing us how process synchronization works in operating system
 * [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY) ---
 Short but nice and usefull video showing us how deadlock works in operating system.
 
+## Week 08
+* [Introduction to CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) ---
+Short video to introduce you to CPU Scheduling. Recommended for newcomer!
+
+* [First Come First Served Scheduling](https://www.youtube.com/watch?v=8-BUGte27sk&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&index=7) ---
+Nice video to introduce you to one of many scheduling algorithm.
+
+
 <br>
 <hr>
